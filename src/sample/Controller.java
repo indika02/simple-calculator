@@ -14,7 +14,7 @@ public class Controller {
     private Button button;
 
     @FXML
-    private Label lblum;
+    private Label lblsum;
 
     @FXML
     private Label mylabel;
